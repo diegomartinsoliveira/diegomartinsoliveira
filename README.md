@@ -14,9 +14,14 @@ Prazer, sou Diego Martins, estudante de ADS e desenvolvendo meus aprendizados re
   <a href="https://github.com/diegomartinsoliveira/" target="_blank"><img align="center" alt="Diego-GIT" height="30" width="70" src="https://camo.githubusercontent.com/ec0d32e85caf4723d5182a75338c89f85a2c3679aed0c46c9ee9fd1c8dc2a316/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769742d2532334630353033332e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465"></a>
   <a href="https://github.com/diegomartinsoliveira/" target="_blank"><img align="center" alt="Diego-Bootstrap" height="30" width="90" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
   <a href="https://github.com/diegomartinsoliveira/" target="_blank"><img align="center" alt="Diego-JQuery" height="30" width="100" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"></a>
-  <a href="https://github.com/diegomartinsoliveira/" target="_blank"><img align="center" alt="Diego-MySQL" height="30" width="100" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></a>
+  <a href="https://github.com/diegomartinsoliveira/" target="_blank"><img align="center" alt="Diego-MySQL" height="30" width="100" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"></a><br>
+  <a href="https://github.com/diegomartinsoliveira/" target="_blank"><img align="center" alt="Diego-MariaDB" height="30" width="100" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"></a>
   <a href="https://github.com/diegomartinsoliveira/" target="_blank"><img align="center" alt="Diego-BitBucket" height="30" width="100" src="https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white"></a>
   <a href="https://github.com/diegomartinsoliveira/" target="_blank"><img align="center" alt="Diego-Trello" height="30" width="100" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"></a>
+  <a href="https://github.com/diegomartinsoliveira/" target="_blank"><img align="center" alt="Diego-Eclipse" height="30" width="100" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"></a>
+  <a href="https://github.com/diegomartinsoliveira/" target="_blank"><img align="center" alt="Diego-VSCode" height="30" width="100" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
+  <a href="https://github.com/diegomartinsoliveira/" target="_blank"><img align="center" alt="Diego-Ubuntu" height="30" width="100" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></a>
+  <a href="https://github.com/diegomartinsoliveira/" target="_blank"><img align="center" alt="Diego-Windows" height="30" width="100" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
 
 </div>
   
