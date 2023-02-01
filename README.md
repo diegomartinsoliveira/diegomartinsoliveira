@@ -1,4 +1,4 @@
-Prazer, sou Diego Martins, estudante de ADS e desenvolvendo meus aprendizados realizados na faculdade.
+<h3> Prazer, sou Diego Martins, atuando como desenvolvedor trainee e estudante de ADS, desenvolvendo e aquirindo conhecimentos com meus aprendizados realizados na faculdade e no trabalho. </h3>
 <div align="center">
 
   <a href="https://github.com/diegomartinsoliveira">
@@ -6,6 +6,9 @@ Prazer, sou Diego Martins, estudante de ADS e desenvolvendo meus aprendizados re
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegomartinsoliveira&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
+
+<h3> ~ Experiências ~ </h3>
+
   <a href="https://github.com/diegomartinsoliveira/" target="_blank"><img align="center" alt="Diego-Java" height="30" width="70" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></a>
   <a href="https://github.com/diegomartinsoliveira/" target="_blank"><img align="center" alt="Diego-PHP" height="30" width="70" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"></a>
   <a href="https://github.com/diegomartinsoliveira/" target="_blank"><img align="center" alt="Diego-Js" height="30" width="100" href="#" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></a>
@@ -25,7 +28,7 @@ Prazer, sou Diego Martins, estudante de ADS e desenvolvendo meus aprendizados re
 
 </div>
   
-  ##
+  <h3> ~ Contatos ~ </h3>
  
 <div> 
   <a href="https://www.linkedin.com/in/diego3301/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
