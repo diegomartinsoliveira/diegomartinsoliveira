@@ -1,8 +1,14 @@
-<h3> Prazer, sou Diego Martins, atuando como desenvolvedor trainee e estudante de ADS, desenvolvendo e aquirindo conhecimentos com meus aprendizados realizados na faculdade e no trabalho. </h3>
+<!--Title @diegomartinsoliveira-->
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Prazer👋;sou+Diego+Martins🚀;Atuando+como+Desenvolvedor+Trainee;e+Estudante+de+ADS;Bem+vindo+ao+meu+perfil!) 
+
+<!--Graph-->
+![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=diegomartinsoliveira&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)
+
 <div align="center">
 
   <a href="https://github.com/diegomartinsoliveira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegomartinsoliveira&layout=compact&langs_count=7&theme=dark"/>
+  <img width=60%" height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegomartinsoliveira&layout=compact&hide_border=true&title_name=teste&title_color=ffffff&text_color=ffffff&bg_color=0d1117" />
+
 </div>
 <div style="display: inline_block"><br>
 
