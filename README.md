@@ -1,5 +1,5 @@
 <!--Title @diegomartinsoliveira-->
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00b3ff&size=35&center=true&vCenter=true&width=1000&lines=Prazer👋;sou+Diego+Martins🚀;Desenvolvedor+Trainee;e+Estudante+de+ADS;Bem+vindo+ao+meu+perfil!) 
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00b3ff&size=35&center=true&vCenter=true&width=1000&lines=Prazer👋;sou+Diego+Martins🚀;Desenvolvedor+Júnior;Bem+vindo+ao+meu+perfil!) 
 
 <div align="center">
 
