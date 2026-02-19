@@ -1,10 +1,14 @@
 <!--Title @diegomartinsoliveira-->
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00b3ff&size=35&center=true&vCenter=true&width=1000&lines=Prazer👋;sou+Diego+Martins+🚀;Desenvolvedor+de+Software+🧑🏻‍💻;Bem+vindo+ao+meu+perfil!+🙋🏻‍♂️) 
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00b3ff&size=35&center=true&vCenter=true&width=1000&lines=Nice+to+meet+you+👋;I’m+Diego+Martins+🚀;Software+Developer+🧑🏻‍💻;Welcome+to+my+profile!+🙋🏻‍♂️) 
 
 <div align="center">
+  
+![](https://github-readme-stats.vercel.app/api?username=diegomartinsoliveira&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=diegomartinsoliveira&theme=shadow_green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=diegomartinsoliveira&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-  <a href="https://github.com/diegomartinsoliveira">
-  <img width=60%" height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegomartinsoliveira&layout=compact&hide_border=true&title_name=teste&title_color=ffffff&text_color=ffffff&bg_color=0d1117" />
+---
+[![](https://visitcount.itsvg.in/api?id=diegomartinsoliveira&icon=0&color=0)](https://visitcount.itsvg.in)
 
 </div>
 <div style="display: inline_block"><br>
